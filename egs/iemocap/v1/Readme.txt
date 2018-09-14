@@ -7,5 +7,6 @@
     2) copy data if you don't have them in the path in 1) already
     3) environment configuration
     +) if you want to use GPU, modify the corresponding set-up scripts
-
+    And more...
+    
 - *** To debug the script, simply do "bash run.sh" after setting a break point
